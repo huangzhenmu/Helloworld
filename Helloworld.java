@@ -3,3 +3,9 @@ public class Helloworld{
     System.out.println("hello github");
   }
 }
+
+class second{
+  public void say(){
+    System.out.println("haha");
+  }
+}
